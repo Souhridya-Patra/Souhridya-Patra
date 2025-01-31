@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 </div> -->
 ![My Badge](https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)
 
+## 🏆 My Pieces GenAI Badge
+
+<iframe src="https://api.badgr.io/public/assertions/WjwIXwPCSOqDwXp_rBBXFQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=saansouhridyapatra%40gmail.com" title="Badge: GenAI 101 with Pieces" style="width: 330px; height: 191px; border: 0px;"></iframe>
+
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
