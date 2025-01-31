@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c677756a-6829-4fe0-89c1-ba84850b70ea" data-share-badge-host="https://www.credly.com">
 </div>
 <!-- <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
-## 🏆 My Credly Badge
-You can view my Credly badges [here](https://Souhridya-Patra.github.io/).
+## 🏆 My ISC2 Badge
+
+[here](https://Souhridya-Patra.github.io/).
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c677756a-6829-4fe0-89c1-ba84850b70ea" data-share-badge-host="https://www.credly.com">
  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div> -->
