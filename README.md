@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c677756a-6829-4fe0-89c1-ba84850b70ea" data-share-badge-host="https://www.credly.com">
 </div>
 <!-- <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
-<img ![Credly Badge](https://images.credly.com/size/220x220/c677756a-6829-4fe0-89c1-ba84850b70ea.png) />
+## 🏆 My Credly Badge
+
+![My Badge]([https://images.credly.com/size/220x220/c677756a-6829-4fe0-89c1-ba84850b70ea.png])
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
