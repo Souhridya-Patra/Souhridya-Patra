@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🏆 My Pieces GenAI Badge
 
-<iframe src="https://api.badgr.io/public/assertions/WjwIXwPCSOqDwXp_rBBXFQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=saansouhridyapatra%40gmail.com" title="Badge: GenAI 101 with Pieces" style="width: 330px; height: 191px; border: 0px;"></iframe>
+![My Badge](https://api.badgr.io/public/assertions/WjwIXwPCSOqDwXp_rBBXFQ/image)
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
