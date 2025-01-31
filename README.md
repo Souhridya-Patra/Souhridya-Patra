@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c677756a-6829-4fe0-89c1-ba84850b70ea" data-share-badge-host="https://www.credly.com">
 </div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
