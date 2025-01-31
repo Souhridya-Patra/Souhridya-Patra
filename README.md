@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🏆 My Pieces GenAI Badge
 
-![My Badge](https://api.badgr.io/public/assertions/WjwIXwPCSOqDwXp_rBBXFQ/image)
+![My Badge](https://api.badgr.io/public/assertions/WjwIXwPCSOqDwXp_rBBXFQ/image.png)
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
