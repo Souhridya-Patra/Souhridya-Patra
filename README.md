@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 ## 🏆 My Credly Badge
 
-![My Badge]([https://images.credly.com/size/220x220/c677756a-6829-4fe0-89c1-ba84850b70ea.png])
+![My Badge](https://images.credly.com/size/220x220/c677756a-6829-4fe0-89c1-ba84850b70ea.png)
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
