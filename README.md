@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![My Badge](https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)
 ## 🏆 My Pieces GenAI Badge
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://github.com/Souhridya-Patra/Souhridya-Patra/Pieces_for_Developers_GenAI_101.png" width="100" height="100" />
+  <img src="https://github.com/Souhridya-Patra/Pieces_for_Developers_GenAI_101.png" width="100" height="100" />
 </div>
 
 ![GenAI 101 with Pieces](Pieces_for_Developers_GenAI_101.png)
