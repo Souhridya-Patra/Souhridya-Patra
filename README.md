@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div> -->
 ![My Badge](https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)
 ## 🏆 My Pieces GenAI Badge
-[![GenAI 101 with Pieces](https://api.badgr.io/public/assertions/WjwIXwPCSOqDwXp_rBBXFQ/image)](https://api.badgr.io/public/assertions/WjwIXwPCSOqDwXp_rBBXFQ)
+![GenAI 101 with Pieces](https://badgr.com/public/assertions/WjwIXwPCSOqDwXp_rBBXFQ)
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
