@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://github.com/Souhridya-Patra/Pieces_for_Developers_GenAI_101.png" width="100" height="100" /> -->
 </div>
 
-![GenAI 101 with Pieces](Pieces_for_Developers_GenAI_101.png)
+<!--![GenAI 101 with Pieces](Pieces_for_Developers_GenAI_101.png)-->
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
